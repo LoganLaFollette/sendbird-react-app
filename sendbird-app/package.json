@@ -1,0 +1,23 @@
+{
+  "name": "sendbird-react-app",
+  "version": "1.0.0",
+  "description": "test react app utilizing sendbird",
+  "main": "App.js",
+  "dependencies": {
+    "sendbird-uikit": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganLaFollette/sendbird-react-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganLaFollette/sendbird-react-app/issues"
+  },
+  "homepage": "https://github.com/LoganLaFollette/sendbird-react-app#readme"
+}
